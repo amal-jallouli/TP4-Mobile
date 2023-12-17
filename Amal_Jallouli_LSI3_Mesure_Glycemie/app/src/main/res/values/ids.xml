@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="agetext" type="id">TVAge</item>
+    <item name="sbAge" type="id">sbAge</item>
+    <item name="rbtOui" type="id">BtnOui</item>
+    <item name="rbtNon" type="id">BtnNon</item>
+    <item name="etValeur" type="id">ETValMes</item>
+    <item name="consulterBtn" type="id">BtnConsulter</item>
+    <item name="result" type="id">text</item>
+    <item name="etvaleur" type="id" />
+    <item name="sbage" type="id" />
+    <item name="tvage" type="id" />
+    <item name="rboui" type="id" />
+    <item name="rbnon" type="id" />
+    <item name="btConsulter" type="id" />
+    <item name="tvresultat" type="id" />
+    <item name="tvAge" type="id" />
+    <item name="tvReponse" type="id" />
+</resources>
